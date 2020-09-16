@@ -1,0 +1,3 @@
+A → xA|By
+B → Cy|Bw|Az
+C → Aw|Bz|Cz|x

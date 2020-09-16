@@ -1,0 +1,4 @@
+A → b B C e | A B C d | d | ε
+B → B b B e | A B C | C c B C | c D A | ε
+C → e D f A | A D c B | a C d B a | ε
+D → D A d | D B c | B D C | ε

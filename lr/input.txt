@@ -1,0 +1,5 @@
+S' → S
+S → x B | C y
+C → z B | A z
+B → y C | w
+A → x A | z
